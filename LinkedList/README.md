@@ -11,9 +11,9 @@ This directory contains solutions to various linked list-related problems from p
 
 2. **Problem Name 2**
    - Description: Brief description of the problem.
-   - Platform: [LeetCode/GeeksforGeeks/Codeforces/HackerRank]
-   - Link: [Link to the problem]
-   - Solution: [Link to the solution file]
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/intersection-of-two-linked-lists/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/Leetcode160_LinkedList_Easy.java]
 
 <!-- Add more problems as needed -->
 
