@@ -5,7 +5,7 @@ The problems are categorized into different sections based on the data structure
 
 ## Sections
 
-- [Stack](./Stack/README.md)
+- [Stack](./Stack/README.md) - 2
 - [LinkedList](./LinkedList/README.md)
 - [String](./String/README.md)
 - [Arrays](./Arrays/README.md)
