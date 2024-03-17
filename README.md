@@ -7,8 +7,8 @@ The problems are categorized into different sections based on the data structure
 
 - [Stack](./Stack/README.md) - 2
 - [LinkedList](./LinkedList/README.md) - 4
-- [String](./String/README.md)
-- [Arrays](./Arrays/README.md)
+- [String](./String/README.md) - 4
+- [Arrays](./Arrays/README.md) - 3
 - [Tree](./Tree/README.md)
 - [Graph](./Graph/README.md)
 - [Sorting](./Sorting/README.md)
