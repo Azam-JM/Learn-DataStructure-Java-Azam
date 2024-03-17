@@ -12,9 +12,9 @@ Below is a list of the problems along with their descriptions:
 
 2. **Problem Name 2**
    - Description: Brief description of the problem.
-   - Platform: [LeetCode/GeeksforGeeks/Codeforces/HackerRank]
-   - Link: [Link to the problem]
-   - Solution: [Link to the solution file]
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/min-stack/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Stack/LeetCode155_Stack_Medium.java]
 
 ## How to Contribute
 
