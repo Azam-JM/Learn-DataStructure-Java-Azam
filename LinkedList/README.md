@@ -9,13 +9,15 @@ This directory contains solutions to various linked list-related problems from p
    - Link: [https://leetcode.com/problems/merge-two-sorted-lists/]
    - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/LeetCode_21_LinkedList_Easy.java]
 
-2. **Problem Name 2**
-   - Description: Brief description of the problem.
+2. **LinkedList Intersection**
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/intersection-of-two-linked-lists/]
    - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/Leetcode160_LinkedList_Easy.java]
 
-<!-- Add more problems as needed -->
+3. **Reverse LinkedList**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/reverse-linked-list/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/tree/main/LinkedList]
 
 ## How to Contribute
 
