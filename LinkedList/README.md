@@ -19,6 +19,12 @@ This directory contains solutions to various linked list-related problems from p
    - Link: [https://leetcode.com/problems/reverse-linked-list/]
    - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/tree/main/LinkedList]
 
+4. **Design LinkedList**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/design-linked-list/]
+   - Solution: [LinkedList/LeetCode707_Medium.java]
+  
+   
 ## How to Contribute
 
 If you'd like to contribute your own solutions to linked list-related problems, feel free to submit a pull request! Make sure to follow these guidelines:
