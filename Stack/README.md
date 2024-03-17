@@ -8,7 +8,7 @@ Below is a list of the problems along with their descriptions:
 1. **Valid Parentheses**
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/valid-parentheses/description/]
-   - Solution: [Link to the solution file]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Stack/LeetCode_20_Stack.java]
 
 2. **Problem Name 2**
    - Description: Brief description of the problem.
