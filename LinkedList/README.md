@@ -7,7 +7,7 @@ This directory contains solutions to various linked list-related problems from p
 1. **Merge 2 sorted List**
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/merge-two-sorted-lists/]
-   - Solution: [Link to the solution file]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/LeetCode_21_LinkedList_Easy.java]
 
 2. **Problem Name 2**
    - Description: Brief description of the problem.
