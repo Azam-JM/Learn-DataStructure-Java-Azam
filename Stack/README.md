@@ -11,11 +11,20 @@ Below is a list of the problems along with their descriptions:
    - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Stack/LeetCode_20_Stack_Easy.java]
 
 2. **Problem Name 2**
-   - Description: Brief description of the problem.
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/min-stack/]
    - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Stack/LeetCode155_Stack_Medium.java]
-
+  
+3. **Problem Name 3**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/evaluate-reverse-polish-notation/description/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Stack/LeetCode150_Medium.java]
+  
+4. **Problem Name 4**
+   - Platform: [LeetCode]
+   - Link: [https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Stack/Geeks4Geeks_NextLargerElement.java]
+  
 ## How to Contribute
 
 If you'd like to contribute your own solutions to stack-related problems, feel free to submit a pull request! Make sure to follow these guidelines:
