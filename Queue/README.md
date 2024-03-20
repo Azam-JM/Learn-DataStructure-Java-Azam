@@ -5,10 +5,15 @@ Below is a list of the problems along with their descriptions:
 
 ## Problem List
 
-1. **Queue using Stack**
+1. **Queue implementation using Stack**
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/implement-queue-using-stacks/description/]
    - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Queue/LeetCode232_Easy.java]
+
+2. **Queue implementation using LinkedList**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/implement-queue-using-stacks/description/]
+   - Solution: []
   
 ## How to Contribute
 
