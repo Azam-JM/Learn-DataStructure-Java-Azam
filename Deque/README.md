@@ -8,7 +8,12 @@ Below is a list of the problems along with their descriptions:
 1. **Sliding window Maximum value**
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/sliding-window-maximum/description/]
-   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Deque/LeetCode_239.java]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Deque/LeetCode_239_Hard.java]
+  
+2. **Sliding window Maximum value**
+   - Platform: [GeeksForGeeks]
+   - Link: [https://www.geeksforgeeks.org/problems/ipl-2021-match-day-2--141634/1]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Deque/GFG_ipl2021.java]
   
 ## How to Contribute
 
