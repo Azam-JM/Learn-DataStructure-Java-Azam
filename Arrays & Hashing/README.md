@@ -5,20 +5,40 @@ Below is a list of the problems along with their descriptions:
 
 ## Problem Array & Hashing
 
-1. **Check Sorted**
-   - Platform: [GeeksForGeeks]
-   - Link: [https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1]
-   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Array/Geeks4Geeks_0701.java]
+1. **Contains Duplicate**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/contains-duplicate/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Arrays%20%26%20Hashing/LeetCode_217_Easy.java]
 
-2. **Sum of Array**
-   - Platform: [GeeksForGeeks]
-   - Link: [https://www.geeksforgeeks.org/problems/sum-of-array2326/1]
-   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Array/Geeks4Geeks_2326.java]
+2. **Valid Anagram**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/valid-anagram/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Arrays%20%26%20Hashing/LeetCode_242_Easy.java]
   
-3. **Min and Max of Array**
-   - Platform: [GeeksForGeeks]
-   - Link: [https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1]
-   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Array/Geeks4Geeks_4428.java]
+3. **Two Sum**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/two-sum/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Arrays%20%26%20Hashing/LeetCode_1_Easy.java]
+  
+4. **Group Anagrams**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/group-anagrams/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Arrays%20%26%20Hashing/LeetCode_49_Medium.java]
+
+5. **Top K elements**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/top-k-frequent-elements/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Arrays%20%26%20Hashing/LeetCode_347_Medium.java]
+  
+6. **Product of Array Except self**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/product-of-array-except-self/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Arrays%20%26%20Hashing/LeetCode_238_Medium.java]
+  
+7. **Longest Consecutive Sequence**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/longest-consecutive-sequence/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/Arrays%20%26%20Hashing/LeetCode_128_Medium.java]
 
 ## How to Contribute
 
