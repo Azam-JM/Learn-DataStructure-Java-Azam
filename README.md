@@ -11,6 +11,7 @@ The problems are categorized into different sections based on the data structure
 - [LinkedList](./LinkedList/README.md) - 4
 - [String](./String/README.md) - 4
 - [Arrays](./Arrays/README.md) - 3
+- [Arrays & Hashing] (./Arrays & Hashing/README.md) - 7
 - [Tree](./Tree/README.md)
 - [Graph](./Graph/README.md)
 - [Sorting](./Sorting/README.md)
