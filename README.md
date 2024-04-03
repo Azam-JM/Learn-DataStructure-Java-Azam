@@ -2,6 +2,7 @@
 
 This repository contains solutions to various data structures and algorithms problems from platforms like LeetCode, GeeksforGeeks, Codeforces, HackerRank, etc.
 The problems are categorized into different sections based on the data structure or algorithm they belong to.
+List will be updated with all the problems mentioned above on regular basis
 
 ## Sections
 
@@ -12,6 +13,7 @@ The problems are categorized into different sections based on the data structure
 - [String](./String/README.md) - 4
 - [Arrays](./Arrays/README.md) - 3
 - [Arrays & Hashing](./Arrays&Hashing/README.md) - 7
+- [SlidingWindow](./SlidingWindow/README.md) - 1
 - [Tree](./Tree/README.md)
 - [Graph](./Graph/README.md)
 - [Sorting](./Sorting/README.md)
