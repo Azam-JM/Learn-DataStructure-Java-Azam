@@ -8,6 +8,36 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+// Iterative approach
+class Solution {
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode newList = new ListNode(-1);
+        ListNode newHead = newList;
+
+        while(list1 != null && list2 != null){
+            if(list1.val <= list2.val){
+                newHead.next = list1;
+                list1 = list1.next;
+            } else {
+                newHead.next = list2;
+                list2 = list2.next;
+            }
+            newHead = newHead.next;
+        }
+
+        if(list1 != null){
+            newHead.next = list1;
+        }
+        if(list2 != null){
+            newHead.next = list2;
+        }
+
+        return newList.next;
+    }
+}
+
+// Recursive approach
 class Solution {
     // Method to merge two sorted linked lists
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
