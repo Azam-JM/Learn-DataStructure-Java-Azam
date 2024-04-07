@@ -8,6 +8,8 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+// Iterative approach
 class Solution {
     // Method to reverse a singly-linked list
     public ListNode reverseList(ListNode head) {
@@ -29,5 +31,23 @@ class Solution {
 
         // Return the new head of the reversed list
         return prev;
+    }
+}
+
+// Recursive approach
+class Solution {
+    public ListNode reverseList(ListNode head) {
+
+        if(head == null || head.next == null){
+            return head;
+        }
+
+        ListNode newHead = reverseList(head.next);
+        head.next.next = head;
+
+        head.next = null;
+
+        return newHead;
+        
     }
 }
