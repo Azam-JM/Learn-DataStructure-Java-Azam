@@ -24,6 +24,10 @@ This directory contains solutions to various linked list-related problems from p
    - Link: [https://leetcode.com/problems/design-linked-list/]
    - Solution: [LinkedList/LeetCode707_Medium.java]
   
+5. **Merge k sorted List**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/merge-k-sorted-lists/description/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/LeetCode_21_LinkedList_Easy.java]
    
 ## How to Contribute
 
