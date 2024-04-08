@@ -23,11 +23,23 @@ This directory contains solutions to various linked list-related problems from p
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/design-linked-list/]
    - Solution: [LinkedList/LeetCode707_Medium.java]
-  
+
+  TODO:
 5. **Merge k sorted List**
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/merge-k-sorted-lists/description/]
    - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/LeetCode_21_LinkedList_Easy.java]
+  
+6. **Reorder list**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/merge-k-sorted-lists/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/LeetCode_21_LinkedList_Easy.java]
+  
+7. **Remove n the element from list**
+   - Platform: [LeetCode]
+   - Link: [https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/LeetCode_21_LinkedList_Easy.java]
+   
    
 ## How to Contribute
 
