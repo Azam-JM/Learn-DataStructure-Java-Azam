@@ -15,6 +15,7 @@ List will be updated with all the problems mentioned above on regular basis
 - [Arrays & Hashing](./Arrays&Hashing/README.md) - 7
 - [SlidingWindow](./SlidingWindow/README.md) - 1
 - [Tree](./Tree/README.md)
+- TwoPointers/README.md
 
 Each section contains a README file with a list of problems and their solutions. Click on the section name above to navigate to the corresponding README file.
 
