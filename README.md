@@ -6,7 +6,7 @@ List will be updated with all the problems mentioned above on regular basis
 
 ## Sections
 
-- [Stack](./Stack/README.md) - 2
+- [Stack](./Stack/README.md) - 4
 - [Queue](./Queue/README.md) - 2
 - [Deque](./Deque/README.md) - 2
 - [LinkedList](./LinkedList/README.md) - 4
