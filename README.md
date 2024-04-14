@@ -15,8 +15,8 @@ List will be updated with all the problems mentioned above on regular basis
 - [Arrays & Hashing](./Arrays&Hashing/README.md) - 7
 - [SlidingWindow](./SlidingWindow/README.md) - 1
 - [Tree](./Tree/README.md)
-- [TwoPointers](./TwoPointers/README.md)
-- [BinarySearch](./BinarySearch/README.md)
+- [TwoPointers](./TwoPointers/README.md) - 4
+- [BinarySearch](./BinarySearch/README.md) - 2
 
 Each section contains a README file with a list of problems and their solutions. Click on the section name above to navigate to the corresponding README file.
 
