@@ -9,7 +9,7 @@ List will be updated with all the problems mentioned above on regular basis
 - [Stack](./Stack/README.md) - 4
 - [Queue](./Queue/README.md) - 2
 - [Deque](./Deque/README.md) - 2
-- [LinkedList](./LinkedList/README.md) - 4
+- [LinkedList](./LinkedList/README.md) - 7
 - [String](./String/README.md) - 4
 - [Arrays](./Arrays/README.md) - 3
 - [Arrays & Hashing](./Arrays&Hashing/README.md) - 7
