@@ -17,29 +17,27 @@ This directory contains solutions to various linked list-related problems from p
 3. **Reverse LinkedList**
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/reverse-linked-list/]
-   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/tree/main/LinkedList]
-
-TODO:
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/Leetcode206_Easy.java]
+     
 4. **Design LinkedList**
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/design-linked-list/]
-   - Solution: [LinkedList/LeetCode707_Medium.java]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/LeetCode707_Medium.java]
 
-  TODO:
 5. **Merge k sorted List**
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/merge-k-sorted-lists/description/]
-   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/LeetCode_21_LinkedList_Easy.java]
+   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/LeetCode_23_Hard.java]
   
 6. **Reorder list**
    - Platform: [LeetCode]
-   - Link: [https://leetcode.com/problems/merge-k-sorted-lists/]
-   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/LeetCode_21_LinkedList_Easy.java]
+   - Link: []
+   - Solution: []
   
 7. **Remove n the element from list**
    - Platform: [LeetCode]
    - Link: [https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/]
-   - Solution: [https://github.com/Azam-JM/Learn-DataStructure-Java-Azam/blob/main/LinkedList/LeetCode_21_LinkedList_Easy.java]
+   - Solution: []
    
    
 ## How to Contribute
