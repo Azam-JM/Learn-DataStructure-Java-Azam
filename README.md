@@ -16,6 +16,7 @@ List will be updated with all the problems mentioned above on regular basis
 - [SlidingWindow](./SlidingWindow/README.md) - 1
 - [Tree](./Tree/README.md)
 - [TwoPointers](./TwoPointers/README.md)
+- [BinarySearch](./BinarySearch/README.md)
 
 Each section contains a README file with a list of problems and their solutions. Click on the section name above to navigate to the corresponding README file.
 
