@@ -14,7 +14,7 @@ List will be updated with all the problems mentioned above on regular basis
 - [Arrays](./Arrays/README.md) - 3
 - [Arrays & Hashing](./Arrays&Hashing/README.md) - 7
 - [SlidingWindow](./SlidingWindow/README.md) - 1
-- [Tree](./Tree/README.md) - 3
+- [Tree](./Tree/README.md) - 4
 - [TwoPointers](./TwoPointers/README.md) - 4
 - [BinarySearch](./BinarySearch/README.md) - 2
 
