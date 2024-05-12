@@ -18,7 +18,7 @@ List will be updated with all the problems mentioned above on regular basis
 - [Trie](./Trie/README.md) - 2
 - [TwoPointers](./TwoPointers/README.md) - 4
 - [BinarySearch](./BinarySearch/README.md) - 2
-- [Greedy](./Greedy/README.md) - 2
+- [Greedy](./Greedy/README.md) - 3
 - [Interval] (./Interval/README.md) - 1
 
 Each section contains a README file with a list of problems and their solutions. Click on the section name above to navigate to the corresponding README file.
