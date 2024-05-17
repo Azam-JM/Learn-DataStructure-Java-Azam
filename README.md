@@ -20,6 +20,7 @@ List will be updated with all the problems mentioned above on regular basis
 - [BinarySearch](./BinarySearch/README.md) - 2
 - [Greedy](./Greedy/README.md) - 3
 - [Interval](./Interval/README.md) - 3
+- [Design Questions](./Design Questions/README.md) - 1
 
 Each section contains a README file with a list of problems and their solutions. Click on the section name above to navigate to the corresponding README file.
 
