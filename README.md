@@ -18,7 +18,7 @@ List will be updated with all the problems mentioned above on regular basis
 - [Trie](./Trie/README.md) - 2
 - [TwoPointers](./TwoPointers/README.md) - 4
 - [BinarySearch](./BinarySearch/README.md) - 2
-- [Greedy](./Greedy/README.md) - 3
+- [Greedy](./Greedy/README.md) - 4
 - [Interval](./Interval/README.md) - 3
 - [Design Questions](./Design Questions/README.md) - 1
 
