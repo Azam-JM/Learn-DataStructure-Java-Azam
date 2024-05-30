@@ -21,7 +21,7 @@ List will be updated with all the problems mentioned above on regular basis
 - [Greedy](./Greedy/README.md) - 4
 - [Interval](./Interval/README.md) - 3
 - [Design Questions](./DesignQuestions/README.md) - 1
-- [BackTracking](./BackTracking/README.md) - 1
+- [BackTracking](./BackTracking/README.md) - 2
 
 Each section contains a README file with a list of problems and their solutions. Click on the section name above to navigate to the corresponding README file.
 
